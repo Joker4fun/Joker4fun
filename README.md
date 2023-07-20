@@ -2,7 +2,6 @@
 <h3 align="center">IOS developer from Russia</h3>
 <h3 align="center">
   
-[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://knlnks.github.io/resume/Kunalan_Kevin_Subagaran_Resume.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Joker4fun/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Joker4fun1@gmail.com)
 
